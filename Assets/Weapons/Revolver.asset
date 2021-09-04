@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af8467e3758076e4396d07b7c8b63ee3, type: 3}
+  m_Name: Revolver
+  m_EditorClassIdentifier: 
+  weaponName: Revolver
+  animName: Handgun
+  discription: 6 Shooter reminiscent of old western movies.
+  type: 1
+  id: 101
+  cost: 1200
+  sprite: {fileID: 21300000, guid: a18fb9e4e1f8e4149be98b1f2ddf1410, type: 3}
+  fireRate: 40
+  magSize: 6
+  reloadSpeed: 1.5
+  projectile: {fileID: 1385050179783552, guid: 0abe9ecc87dc6114995e5cea94fd8ffd, type: 3}

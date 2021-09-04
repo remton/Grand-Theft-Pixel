@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16700d6f5f5a73f4dabca1477a3e7889, type: 3}
+  m_Name: RedCar
+  m_EditorClassIdentifier: 
+  carName: Red Car
+  discription: A simple humble start.
+  id: 1
+  cost: 0
+  sprite: {fileID: 21300000, guid: b7fe9abbe8a56174a958fa9a77a5a185, type: 3}
+  health: 1
+  speed: 80
+  acceleration: 7
+  animOverride: {fileID: 22100000, guid: c6804eb115d3ea6479a10e5986b49f7c, type: 2}

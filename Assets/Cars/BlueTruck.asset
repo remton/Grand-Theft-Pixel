@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16700d6f5f5a73f4dabca1477a3e7889, type: 3}
+  m_Name: BlueTruck
+  m_EditorClassIdentifier: 
+  carName: blue truck
+  discription: Slower than your average vehicle, but with more health.
+  id: 2
+  cost: 2000
+  sprite: {fileID: 21300000, guid: 119ed8a5d8dc8a14e9c82a345db58b10, type: 3}
+  health: 3
+  speed: 65
+  acceleration: 4
+  animOverride: {fileID: 22100000, guid: 0ca354480613f9a47bff40d1950431c9, type: 2}
